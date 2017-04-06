@@ -1,7 +1,9 @@
 # submit-first-app-jjamieandrews
 submit-first-app-jjamieandrews created by GitHub Classroom
 
-I may have bitten off more than I could chew with OOP, it was abitious, but I was almost there! However there are two problems which I have indicated.
+This short application is a C++ Contact List!!
+
+I may have bitten off more than I could chew with OOP, it was abitious, but I was almost there! However there are two problems which I have indicated (any solutions will be appreciated!)
 
 Nonetheless here is my code for my first application project in c++
 
