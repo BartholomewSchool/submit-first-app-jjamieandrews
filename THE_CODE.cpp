@@ -47,7 +47,7 @@ int main() {
             cin>>user_lastname;
             cout<<"age:"<<endl;
             string user_age; 
-            cin>>user_age;                       //FIRST PROBLEM: Line __ 
+            cin>>user_age;                       //FIRST PROBLEM: Line 55 
             cout<<"postcode:"<<endl;             
             string user_postcode;                //After retrieveing all the info from the user
             cin>>user_postcode;                  //the main problem was to create an object
@@ -78,7 +78,7 @@ int main() {
                 bool exists = std::find(std::begin(my_array), std::end(my_array), check) != std::end(array_array);
                 
                 //if the inputed value exists in an object
-                if (exists) {                                             //SECOND PROBLEM: Line __
+                if (exists) {                                             //SECOND PROBLEM: Line 78
                     //breaks the loop at line 71
                     j = 1                                                 //I have created a 2D array ('array_array') which will store
                 //for each object that has that value, output all info    //each 'objarray' for each object (the 'objarray' containing all
